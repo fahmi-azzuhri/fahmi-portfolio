@@ -24,8 +24,8 @@ function Projects() {
               isBlog={false}
               title="Baca Alquran"
               description="Al-Quran versi web adalah bentuk digital dari kitab suci Islam yang dapat diakses melalui internet. Ini memungkinkan pengguna untuk membaca, mencari, dan mempelajari isi Al-Quran secara online, termasuk terjemahan, audio, dan fitur tambahan untuk pemahaman yang lebih baik."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/fahmi-azzuhri/baca-alquran"
+              demoLink="https://bacaalquran.vercel.app/"
             />
           </Col>
 
