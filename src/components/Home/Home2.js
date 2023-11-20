@@ -4,6 +4,7 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { TbBrandGolang } from "react-icons/tb";
 
 function Home2() {
   return (
@@ -18,9 +19,11 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am currently learning
+              <br />I am currently learning {""}
               <i>
-                <b className="purple"> NextJS, ReactJS and Jetpack Compose </b>
+                <b className="purple">
+                  Golang <TbBrandGolang className="text-white" size={40} />
+                </b>
               </i>
               <br />
               <br />
@@ -34,7 +37,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Vite.js and Nuxt.js</b>
               </i>
             </p>
           </Col>

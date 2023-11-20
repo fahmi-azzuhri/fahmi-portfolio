@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import bacaalquran from "../../Assets/Projects/bacaalquran.png";
 import kamihikouki from "../../Assets/Projects/kamihikouki.png";
 import pokemon from "../../Assets/Projects/pokemon.png";
+import pluit from "../../Assets/Projects/pluit-sakti.png";
 
 function Projects() {
   return (
@@ -48,6 +49,16 @@ function Projects() {
               description="Sebagai latihan reactjs dengan axios, saya membuat project pokemon"
               ghLink="https://github.com/fahmi-azzuhri/my-pokemon"
               demoLink="https://mypokemon-ten.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pluit}
+              isBlog={false}
+              title="Pluit Sakti"
+              description="Tes untuk Frontend Web Dev di salah satu perusahaan, saya slicing website Pluit Sakti yang ada di figma menggunakan vite.js dan API MovieDB untuk di consume. masih ada beberapa kekurangan seperti search belum berfungsi dan belum responsif"
+              ghLink="https://github.com/fahmi-azzuhri/fe-test"
+              demoLink="https://pluitsakti.vercel.app/"
             />
           </Col>
         </Row>
