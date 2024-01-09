@@ -6,6 +6,7 @@ import bacaalquran from "../../Assets/Projects/bacaalquran.png";
 import kamihikouki from "../../Assets/Projects/kamihikouki.png";
 import pokemon from "../../Assets/Projects/pokemon.png";
 import pluit from "../../Assets/Projects/pluit-sakti.png";
+import micommerce from "../../Assets/Projects/micommerce.png";
 
 function Projects() {
   return (
@@ -59,6 +60,17 @@ function Projects() {
               description="Tes untuk Frontend Web Dev di salah satu perusahaan, saya slicing website Pluit Sakti yang ada di figma menggunakan vite.js dan API MovieDB untuk di consume. masih ada beberapa kekurangan seperti search belum berfungsi dan belum responsif"
               ghLink="https://github.com/fahmi-azzuhri/fe-test"
               demoLink="https://pluitsakti.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={micommerce}
+              isBlog={false}
+              title="Micommerce"
+              description="
+              Membangun platform e-commerce dengan menggunakan API dari FakestoreAPI untuk mengambil informasi produk dan menampilkannya di situs web. Proyek ini dikembangkan menggunakan Vite.js dan Tailwind CSS."
+              ghLink="https://github.com/fahmi-azzuhri/micommerce"
+              demoLink="https://micommerce.vercel.app/"
             />
           </Col>
         </Row>
