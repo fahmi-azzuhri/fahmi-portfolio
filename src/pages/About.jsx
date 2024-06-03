@@ -1,7 +1,6 @@
 import CopyEmailButton from "../components/CopyEmailButton";
 import Slogan from "../components/Slogan";
 import { getConfigData } from "../data/configReader";
-import source from "../assets/source.jpg";
 
 export default function About() {
   const configData = getConfigData();
@@ -23,7 +22,7 @@ export default function About() {
           </p>
           <img
             className="border rounded-md p-3 grayscale shadow-md"
-            src={source}
+            src="src/assets/source.jpg"
             alt=""
           />
         </div>
