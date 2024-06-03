@@ -22,7 +22,7 @@ export default function About() {
           </p>
           <img
             className="border rounded-md p-3 grayscale shadow-md"
-            src="src/assets/source.jpg"
+            src="src/assets/source.png"
             alt=""
           />
         </div>
