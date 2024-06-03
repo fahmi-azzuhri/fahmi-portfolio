@@ -1,0 +1,45 @@
+{
+  "job": "Frontend Developer",
+  "name": "Fahmi Azzuhri Efki",
+  "desc": "Currently learning Fullstack Javascript and Dart",
+  "aboutDesc": "Halo, nama saya Fahmi Azzuhri Efki. Saya memiliki minat yang besar dalam pemrograman Web Frontend dan selalu antusias mempelajari hal-hal baru di dunia IT. Saat ini, saya sedang mendalami pengembangan aplikasi mobile menggunakan Flutter. Saya percaya bahwa terus belajar dan beradaptasi dengan inovasi baru di bidang IT adalah kunci untuk tetap relevan dan unggul dalam industri ini. Di luar pekerjaan, saya memiliki hobi travelling menggunakan sepeda motor. Berkeliling dan menjelajahi tempat-tempat baru memberikan saya banyak inspirasi dan semangat baru yang saya bawa ke dalam setiap proyek yang saya kerjakan.\n\nDengan latar belakang akademis yang kuat, semangat untuk terus belajar, dan keseimbangan hidup melalui hobi saya, saya siap untuk memberikan kontribusi terbaik di setiap kesempatan yang ada.",
+  "email": "fahmiazzuhriefki@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://www.linkedin.com/in/fahmiazzuhriefki/",
+  "projects": [
+    {
+      "project-name": "Kamihikouki Airliness",
+      "project-desc": "React + Bootstrap. Final Project Kampus Merdeka at Binar Academy",
+      "project-url": "https://kamihikouki.vercel.app/"
+    },
+    {
+      "project-name": "Dzikrhub",
+      "project-desc": "React + Tailwindcss. Berisi doa doa, dzikir, asmaul husna dan membaca Alquran",
+      "project-url": "https://dzikrhub.vercel.app/"
+    },
+    {
+      "project-name": "Micommerce",
+      "project-desc": "React + Tailwindcss. Website E-commerce dengan data dummy dari fakestoreapi.com",
+      "project-url": "https://micommerce.vercel.app/"
+    },
+    {
+      "project-name": "Copas Capt",
+      "project-desc": "React + Tailwindcss. Quotes kekinian yang bisa di copy paste",
+      "project-url": "https://copas-capt.vercel.app/"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaInstagram",
+      "link": "https://instagram.com/fahmi_azzuhri"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/fahmi-azzuhri"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/fahmiazzuhriefki/"
+    }
+  ]
+}
