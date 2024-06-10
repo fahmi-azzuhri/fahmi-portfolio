@@ -15,7 +15,7 @@
     
     {
       "project-name": "Dzikrhub",
-      "project-desc": "React + Tailwindcss. Berisi doa doa, dzikir, asmaul husna dan membaca Alquran",
+      "project-desc": "Vite + Tailwindcss. Berisi doa doa, dzikir, asmaul husna dan membaca Alquran",
       "project-url": "https://dzikrhub.vercel.app/"
     },
     {
@@ -25,12 +25,12 @@
     },
     {
       "project-name": "Micommerce",
-      "project-desc": "React + Tailwindcss. Website E-commerce dengan data dummy dari fakestoreapi.com",
+      "project-desc": "Vite + Tailwindcss. Website E-commerce dengan data dummy dari fakestoreapi.com",
       "project-url": "https://micommerce.vercel.app/"
     },
     {
       "project-name": "Copas Capt",
-      "project-desc": "React + Tailwindcss. Quotes kekinian yang bisa di copy paste",
+      "project-desc": "Vite + Tailwindcss. Quotes kekinian yang bisa di copy paste",
       "project-url": "https://copas-capt.vercel.app/"
     }
   ],
