@@ -8,14 +8,20 @@
   "hireMeLink": "https://www.linkedin.com/in/fahmiazzuhriefki/",
   "projects": [
     {
-      "project-name": "Kamihikouki Airliness",
-      "project-desc": "React + Bootstrap. Final Project Kampus Merdeka at Binar Academy",
-      "project-url": "https://kamihikouki.vercel.app/"
+      "project-name": "Quicksave",
+      "project-desc": "Vite + Tailwindcss. Unduh video dari platform media sosial seperti Instagram, Facebook, TikTok, YouTube, dan Spotify.",
+      "project-url": "https://quicksave.vercel.app/"
     },
+    
     {
       "project-name": "Dzikrhub",
       "project-desc": "React + Tailwindcss. Berisi doa doa, dzikir, asmaul husna dan membaca Alquran",
       "project-url": "https://dzikrhub.vercel.app/"
+    },
+    {
+      "project-name": "Kamihikouki Airliness",
+      "project-desc": "React + Bootstrap. Final Project Kampus Merdeka at Binar Academy",
+      "project-url": "https://kamihikouki.vercel.app/"
     },
     {
       "project-name": "Micommerce",
