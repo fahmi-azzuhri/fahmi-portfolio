@@ -1,7 +1,7 @@
 {
   "job": "Frontend Developer",
   "name": "Fahmi Azzuhri Efki",
-  "desc": "Currently learning Fullstack Javascript",
+  "desc": "Currently learning Fullstack Javascript and Dart",
   "aboutDesc": "Halo, saya Fahmi Azzuhri Efki, seorang Frontend Web Developer yang memiliki keahlian dalam framework JavaScript seperti ReactJS. Saya sangat antusias dalam mempelajari hal-hal baru dan selalu berusaha untuk mengikuti perkembangan teknologi terbaru. Selain itu, saya juga memiliki kemampuan kolaborasi yang kuat, sehingga dapat bekerja sama dengan tim secara efektif untuk mencapai tujuan bersama.",
   "email": "fahmiazzuhriefki@gmail.com",
   "status": "on",
@@ -9,7 +9,7 @@
   "projects": [
     {
       "project-name":"Anontalk!",
-      "project-desc":"Sebuah platform berbasis web yang memungkinkan pengguna berbagi pesan secara anonim dengan mudah dan cepat",
+      "project-desc":"Sebuah platform berbasis web yang memungkinkan pengguna berbagi pesan secara anonim dengan mudah dan cepat.Teknologi yang digunakan dalam project ini yaitu React Vite dengan mengimplementasikan Tanstack Query,TailwindCSS,ExpressJS,Prisma,MySQL",
       "project-url":"https://github.com/fahmi-azzuhri/anontalk"
     },
     {
