@@ -8,6 +8,21 @@
   "hireMeLink": "https://www.linkedin.com/in/fahmiazzuhriefki/",
   "projects": [
     {
+      "project-name":"Anontalk!",
+      "project-desc":"Sebuah platform berbasis web yang memungkinkan pengguna berbagi pesan secara anonim dengan mudah dan cepat",
+      "project-url":"https://github.com/fahmi-azzuhri/anontalk"
+    },
+    {
+      "project-name":"Karcis.com",
+      "project-desc":"Karcis.com merupakan website untuk membeli tiket konser atau acara acara tertentu. Ini merupakan project latihan saya untuk integrasi API menggunakan Tanstack Query, teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL. Project ini belum selesai dan masih tahap pembuatan.",
+      "project-url":"https://github.com/fahmi-azzuhri/karcis"
+    },
+    {
+      "project-name":"Lapordaily",
+      "project-desc":"Lapordaily sebuah project yang dibuat untuk menginput laporan harian bagian Scrap Produksi di PT KMI Wire and Cable Tbk. Ini project latihan untuk integrasi API dengan backend. Teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL",
+      "project-url":"https://github.com/fahmi-azzuhri/lapordaily"
+    },
+    {
       "project-name": "Quicksave",
       "project-desc": "Vite + Tailwindcss. Unduh video dari platform media sosial seperti Instagram, Facebook, TikTok, YouTube, dan Spotify.",
       "project-url": "https://quicksave.vercel.app/"
