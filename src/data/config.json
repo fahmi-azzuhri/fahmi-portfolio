@@ -10,7 +10,11 @@
     {
       "project-name":"Anontalk!",
       "project-desc":"Sebuah platform berbasis web yang memungkinkan pengguna berbagi pesan secara anonim dengan mudah dan cepat.Teknologi yang digunakan dalam project ini yaitu React Vite dengan mengimplementasikan Tanstack Query,TailwindCSS,ExpressJS,Prisma,MySQL",
-      "project-url":"https://github.com/fahmi-azzuhri/anontalk"
+      "project-url":"https://github.com/fahmi-azzuhri/anontalk",
+      "project-images" : [
+    "https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/455203445-5e1c0bc2-da7b-4476-ba97-39d778adfbde.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T154856Z&X-Amz-Expires=300&X-Amz-Signature=e2d404de8d10e7a3e9d08e486298cfbd71cc20b3eca738a27fa9f53fbda94ffa&X-Amz-SignedHeaders=host",
+    "https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/422744080-2484817a-fb4c-4b4f-8aa6-5afefe2089ae.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T154937Z&X-Amz-Expires=300&X-Amz-Signature=98c2e78944f1fda13976cb5f386836e44a9fde964e9d21d1e35a28bf7a4f9b27&X-Amz-SignedHeaders=host"
+      ]
     },
     {
       "project-name":"Karcis.com",

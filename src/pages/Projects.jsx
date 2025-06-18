@@ -1,4 +1,5 @@
 import { getConfigData } from "../data/configReader";
+import ProjectImages from "../components/ProjectImages";
 
 export default function Projects() {
   const configData = getConfigData();
@@ -16,7 +17,6 @@ export default function Projects() {
             <a
               key={index}
               className="drop-shadow-md card bg-white rounded-lg px-5 py-3 gap-x-3 flex flex-col md:flex-none md:flex-row hover:-translate-y-1 hover:scale-100 duration-300 transition ease-in-out delay-150 hover:shadow-sm border border-gray-200 hover:border-gray-300 mb-2"
-              href={project["project-url"]}
             >
               <div className="flex flex-col justify-center">
                 <h1 className="font-medium text-lg">
@@ -25,6 +25,10 @@ export default function Projects() {
                 <p className="text-gray-500 text-md">
                   {project["project-desc"]}
                 </p>
+                <p className="text-blue-500 text-md py-3">
+                  {project["project-url"]}
+                </p>
+                <ProjectImages images={project["project-images"]} />
               </div>
             </a>
           ))}
