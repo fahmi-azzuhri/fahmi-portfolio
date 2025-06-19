@@ -35,7 +35,9 @@
     {
       "project-name": "Quicksave",
       "project-desc": "Vite + Tailwindcss. Unduh video dari platform media sosial seperti Instagram, Facebook, TikTok, YouTube, dan Spotify.",
-      "project-url": "https://quicksave.vercel.app/"
+      "project-url": "https://quicksave.vercel.app/",
+      "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/quicksave.png"]
+
     },
     
     {
