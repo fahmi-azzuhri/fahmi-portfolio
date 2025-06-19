@@ -26,11 +26,11 @@
       "project-desc":"Lapordaily sebuah project yang dibuat untuk menginput laporan harian bagian Scrap Produksi di PT KMI Wire and Cable Tbk. Ini project latihan untuk integrasi API dengan backend. Teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL",
       "project-url":"https://github.com/fahmi-azzuhri/lapordaily",
       "project-images" : [
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/453755439-813dfd6f-785d-4ec6-b85e-dbaabbcb08e2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T155854Z&X-Amz-Expires=300&X-Amz-Signature=d9c57ed997190aec7f19a42c6529eec6bbefd661cb3121cb2d291e3d62fa09ea&X-Amz-SignedHeaders=host",
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/453755577-d01a9f34-7450-431d-b930-310c84e5f3d9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T155929Z&X-Amz-Expires=300&X-Amz-Signature=7b8ba8269ce2c7ee5154dc12837337af879a2c98fd1ac48f0cb93d2d5d7f5c29&X-Amz-SignedHeaders=host",
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/453755659-167f0a11-0e33-4bb3-807f-821afff60883.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T155957Z&X-Amz-Expires=300&X-Amz-Signature=76c60dbc7e61ffe95bec811ce3b2e6b4b6b48bc44c33580bf42812ee4b955b3d&X-Amz-SignedHeaders=host",
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/453755666-82609020-e59f-4841-a251-56d932d29642.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T160032Z&X-Amz-Expires=300&X-Amz-Signature=d077db7d2b1f78b47bfceb5eecd7bc04b56e78968c63936ac1d9d62828197c0e&X-Amz-SignedHeaders=host",
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/453755664-8a40d76d-e90a-4b3a-9eb3-18a82c9a2aed.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T160057Z&X-Amz-Expires=300&X-Amz-Signature=07f9c18da280f667810bafa982d3f1bf4104a1b9d29e2533408737dd04ce8c7e&X-Amz-SignedHeaders=host"
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily1.png","https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily2.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily3.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily4.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily5.png"
+        
       ]
     },
     {
