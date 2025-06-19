@@ -39,12 +39,6 @@
       "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/quicksave.png"]
 
     },
-    
-    {
-      "project-name": "Dzikrhub",
-      "project-desc": "Vite + Tailwindcss. Berisi doa doa, dzikir, asmaul husna dan membaca Alquran",
-      "project-url": "https://dzikrhub.vercel.app/"
-    },
     {
       "project-name": "Kamihikouki Airliness",
       "project-desc": "React + Bootstrap. Final Project Kampus Merdeka at Binar Academy",
