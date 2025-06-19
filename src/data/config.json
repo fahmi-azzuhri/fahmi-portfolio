@@ -52,7 +52,8 @@
     {
       "project-name": "Micommerce",
       "project-desc": "Vite + Tailwindcss. Website E-commerce dengan data dummy dari fakestoreapi.com",
-      "project-url": "https://micommerce.vercel.app/"
+      "project-url": "https://micommerce.vercel.app/",
+      "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/micommerce.png"]
     },
     {
       "project-name": "Copas Capt",
