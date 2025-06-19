@@ -47,7 +47,7 @@
       "project-name": "Kamihikouki Airliness",
       "project-desc": "React + Bootstrap. Final Project Kampus Merdeka at Binar Academy",
       "project-url": "https://kamihikouki.vercel.app/",
-      "project-images" :["https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/456605225-c1167c3f-b30d-4b80-aad1-6114d26d5450.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T155404Z&X-Amz-Expires=300&X-Amz-Signature=bc6d1b21546d8c818f64279a82033ae798b2cf899e2b95dbf4b7d9829558fff8&X-Amz-SignedHeaders=host"]
+      "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/kamihikouki.png"]
     },
     {
       "project-name": "Micommerce",
