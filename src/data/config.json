@@ -58,7 +58,7 @@
       "project-name": "Copas Capt",
       "project-desc": "Vite + Tailwindcss. Quotes kekinian yang bisa di copy paste",
       "project-url": "https://copas-capt.vercel.app/",
-      "project-images" :["https://github-production-user-asset-6210df.s3.amazonaws.com/91070416/456606690-3631716d-44d4-4237-b982-5657d4030d24.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T155657Z&X-Amz-Expires=300&X-Amz-Signature=5549c521010cec23aa00e28543b51ff63caee096942068e04337b68ac74865d0&X-Amz-SignedHeaders=host"]
+      "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/copas.png"]
     }
   ],
   "social": [
