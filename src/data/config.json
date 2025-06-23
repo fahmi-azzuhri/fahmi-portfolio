@@ -8,6 +8,14 @@
   "hireMeLink": "https://www.linkedin.com/in/fahmiazzuhriefki/",
   "projects": [
     {
+      "project-name":"Klikvote",
+      "project-desc":"Klikvote adalah solusi digital untuk kebutuhan voting modern. Dirancang untuk organisasi, komunitas, instansi pendidikan, dan event, Klikvote mempermudah proses voting tanpa harus bertemu secara fisik. Teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL",
+      "project-url":"https://github.com/fahmi-azzuhri/klikvote",
+      "project-images" : [
+  "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote1.png", "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote2.png","https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote3.png","https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote4.png","https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote5png"
+      ]
+    },
+    {
       "project-name":"Anontalk!",
       "project-desc":"Sebuah platform berbasis web yang memungkinkan pengguna berbagi pesan secara anonim dengan mudah dan cepat.Teknologi yang digunakan dalam project ini yaitu React Vite dengan mengimplementasikan Tanstack Query,TailwindCSS,ExpressJS,Prisma,MySQL",
       "project-url":"https://github.com/fahmi-azzuhri/anontalk",
