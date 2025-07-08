@@ -26,7 +26,8 @@
     {
       "project-name":"Karcis.com",
       "project-desc":"Karcis.com merupakan website untuk membeli tiket konser atau acara acara tertentu. Ini merupakan project latihan saya untuk integrasi API menggunakan Tanstack Query, teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL. Project ini belum selesai dan masih tahap pembuatan.",
-      "project-url":"https://github.com/fahmi-azzuhri/karcis"
+      "project-url":"https://github.com/fahmi-azzuhri/karcis",
+"project-images":[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis1.jpg", "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis2.jpg", "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis3.jpg", "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis4.jpg"]
     },
     {
       "project-name":"Lapordaily",
