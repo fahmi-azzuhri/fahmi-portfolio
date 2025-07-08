@@ -2,69 +2,86 @@
   "job": "Frontend Developer",
   "name": "Fahmi Azzuhri Efki",
   "desc": "Currently learning Typescript",
-  "aboutDesc": "Halo, saya Fahmi Azzuhri Efki, seorang Frontend Web Developer yang memiliki keahlian dalam framework JavaScript seperti ReactJS. Saya sangat antusias dalam mempelajari hal-hal baru dan selalu berusaha untuk mengikuti perkembangan teknologi terbaru. Selain itu, saya juga memiliki kemampuan kolaborasi yang kuat, sehingga dapat bekerja sama dengan tim secara efektif untuk mencapai tujuan bersama.",
+  "aboutDesc": "Halo, saya Fahmi Azzuhri Efki. Seorang Frontend Web Developer yang ahli di framework JavaScript seperti React.js. Saya sangat antusias mempelajari hal-hal baru dan terus mengikuti perkembangan teknologi terbaru.\n\n\nSelain itu, saya juga terbiasa bekerja dalam tim dan memiliki kemampuan kolaborasi yang baik. Saya percaya bahwa dengan kerja sama, kita bisa mencapai tujuan lebih efektif.",
   "email": "fahmiazzuhriefki@gmail.com",
   "status": "on",
   "hireMeLink": "https://www.linkedin.com/in/fahmiazzuhriefki/",
   "projects": [
     {
-      "project-name":"Klikvote",
-      "project-desc":"Klikvote adalah solusi digital untuk kebutuhan voting modern. Dirancang untuk organisasi, komunitas, instansi pendidikan, dan event, Klikvote mempermudah proses voting tanpa harus bertemu secara fisik. Teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL",
-      "project-url":"https://github.com/fahmi-azzuhri/klikvote",
-      "project-images" : [
-  "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote1.png", "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote2.png","https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote3.png","https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote4.png","https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote5.png"
+      "project-name": "Klikvote",
+      "project-desc": "Klikvote adalah solusi digital untuk kebutuhan voting modern. Dirancang untuk organisasi, komunitas, instansi pendidikan, dan event, Klikvote mempermudah proses voting tanpa harus bertemu secara fisik. Teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL",
+      "project-url": "https://github.com/fahmi-azzuhri/klikvote",
+      "project-images": [
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote1.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote2.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote3.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote4.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/klikvote5.png"
       ]
     },
     {
-      "project-name":"Anontalk!",
-      "project-desc":"Sebuah platform berbasis web yang memungkinkan pengguna berbagi pesan secara anonim dengan mudah dan cepat.Teknologi yang digunakan dalam project ini yaitu React Vite dengan mengimplementasikan Tanstack Query,TailwindCSS,ExpressJS,Prisma,MySQL",
-      "project-url":"https://github.com/fahmi-azzuhri/anontalk",
-      "project-images" : [
-  "https://raw.githubusercontent.com/fahmi-assets/assets/main/anontalk1.png", "https://raw.githubusercontent.com/fahmi-assets/assets/main/anontalk2.png"
+      "project-name": "Anontalk!",
+      "project-desc": "Sebuah platform berbasis web yang memungkinkan pengguna berbagi pesan secara anonim dengan mudah dan cepat.Teknologi yang digunakan dalam project ini yaitu React Vite dengan mengimplementasikan Tanstack Query,TailwindCSS,ExpressJS,Prisma,MySQL",
+      "project-url": "https://github.com/fahmi-azzuhri/anontalk",
+      "project-images": [
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/anontalk1.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/anontalk2.png"
       ]
     },
     {
-      "project-name":"Karcis.com",
-      "project-desc":"Karcis.com merupakan website untuk membeli tiket konser atau acara acara tertentu. Ini merupakan project latihan saya untuk integrasi API menggunakan Tanstack Query, teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL. Project ini belum selesai dan masih tahap pembuatan.",
-      "project-url":"https://github.com/fahmi-azzuhri/karcis",
-"project-images":[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis1.jpg", "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis2.jpg", "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis3.jpg", "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis4.jpg"]
+      "project-name": "Karcis.com",
+      "project-desc": "Karcis.com merupakan website untuk membeli tiket konser atau acara acara tertentu. Ini merupakan project latihan saya untuk integrasi API menggunakan Tanstack Query, teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL. Project ini belum selesai dan masih tahap pembuatan.",
+      "project-url": "https://github.com/fahmi-azzuhri/karcis",
+      "project-images": [
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis1.jpg",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis2.jpg",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis3.jpg",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/karcis4.jpg"
+      ]
     },
     {
-      "project-name":"Lapordaily",
-      "project-desc":"Lapordaily sebuah project yang dibuat untuk menginput laporan harian bagian Scrap Produksi di PT KMI Wire and Cable Tbk. Ini project latihan untuk integrasi API dengan backend. Teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL",
-      "project-url":"https://github.com/fahmi-azzuhri/lapordaily",
-      "project-images" : [
-        "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily1.png","https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily2.png",
+      "project-name": "Lapordaily",
+      "project-desc": "Lapordaily sebuah project yang dibuat untuk menginput laporan harian bagian Scrap Produksi di PT KMI Wire and Cable Tbk. Ini project latihan untuk integrasi API dengan backend. Teknologi yang digunakan dalam project ini yaitu React Vite,TailwindCSS,ExpressJS,Prisma,MySQL",
+      "project-url": "https://github.com/fahmi-azzuhri/lapordaily",
+      "project-images": [
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily1.png",
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily2.png",
         "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily3.png",
         "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily4.png",
         "https://raw.githubusercontent.com/fahmi-assets/assets/main/lapordaily5.png"
-        
       ]
     },
     {
       "project-name": "Quicksave",
       "project-desc": "Vite + Tailwindcss. Unduh video dari platform media sosial seperti Instagram, Facebook, TikTok, YouTube, dan Spotify.",
       "project-url": "https://quicksave.vercel.app/",
-      "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/quicksave.png"]
-
+      "project-images": [
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/quicksave.png"
+      ]
     },
     {
       "project-name": "Kamihikouki Airliness",
       "project-desc": "React + Bootstrap. Final Project Kampus Merdeka at Binar Academy",
       "project-url": "https://kamihikouki.vercel.app/",
-      "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/kamihikouki.png"]
+      "project-images": [
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/kamihikouki.png"
+      ]
     },
     {
       "project-name": "Micommerce",
       "project-desc": "Vite + Tailwindcss. Website E-commerce dengan data dummy dari fakestoreapi.com",
       "project-url": "https://micommerce.vercel.app/",
-      "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/micommerce.png"]
+      "project-images": [
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/micommerce.png"
+      ]
     },
     {
       "project-name": "Copas Capt",
       "project-desc": "Vite + Tailwindcss. Quotes kekinian yang bisa di copy paste",
       "project-url": "https://copas-capt.vercel.app/",
-      "project-images" :[ "https://raw.githubusercontent.com/fahmi-assets/assets/main/copas.png"]
+      "project-images": [
+        "https://raw.githubusercontent.com/fahmi-assets/assets/main/copas.png"
+      ]
     }
   ],
   "social": [
